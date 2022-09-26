@@ -1,1 +1,2 @@
 Se añade nueva funcionalidad biometrico en login
+Se corrige errores de preproduccion
